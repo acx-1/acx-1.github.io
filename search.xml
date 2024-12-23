@@ -138,11 +138,11 @@
       
         <tags>
             
-            <tag> SpringMVC </tag>
-            
             <tag> ssh </tag>
             
             <tag> ssm </tag>
+            
+            <tag> SpringMVC </tag>
             
         </tags>
       
@@ -182,13 +182,13 @@
       
         <tags>
             
-            <tag> ssh </tag>
-            
-            <tag> ssm </tag>
-            
             <tag> svn </tag>
             
             <tag> maven </tag>
+            
+            <tag> ssh </tag>
+            
+            <tag> ssm </tag>
             
         </tags>
       
